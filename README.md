@@ -15,6 +15,7 @@ The final Generator and Discriminator Models:
 (https://drive.google.com/drive/folders/1DOYDiVM7znDe1V6y3NW_tdGp_Xmv-h5t?usp=sharing)
 <h5>Output</h5>
 <p align="center">
-  <img src="(https://github.com/Axyakhil/Image_Restoration/blob/main/updated_sample_epoch_80.png)?raw=true>"
+  <img src="https://raw.githubusercontent.com/Axyakhil/Image_Restoration/main/updated_sample_epoch_80.png"
+       alt="Restoration sample (epoch 80)" width="600" />
 </p>
 
